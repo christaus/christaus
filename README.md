@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently studying how to code.  
-- 🌱 I'm currently learning javascript, html, css, sass, webpack, npm and ajax.
+- 🌱 I'm currently learning python, javascript, html, css, sass, webpack, npm and ajax.
 - 👯 I’m not ready yet for a collaboration because I lake of time.
 - 🤔 I’m not yet looking for help.
 - 💬 Ask me about anything, I will be glad to give you an answer.
