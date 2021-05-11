@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400)  
 - 🔭 I'm currently studying how to code.  
 - 🌱 I'm currently learning python, javascript, html, css, sass, webpack, npm and ajax.
 - 👯 I’m not ready yet for a collaboration because I lake of time.
@@ -6,8 +7,7 @@
 - 💬 [Ask me about anything](https://github.com/cGIfl300/cGIfl300/issues/new), I will be glad to give you an answer.
 - 📫 How to reach me: you can simply [leave an issue to my profile](https://github.com/cGIfl300/cGIfl300/issues/new).
 - 😄 Pronouns: [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
-- ⚡ Fun fact: I can read french. I have a [blog hosted here, on github](https://www.cgifl300.com/) it uses CI/CD.  
-![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400) 
+- ⚡ Fun fact: I can read french. I have a [blog hosted here, on github](https://www.cgifl300.com/) it uses CI/CD. 
 <!--
 **cGIfl300/cGIfl300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
