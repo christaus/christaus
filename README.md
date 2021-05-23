@@ -1,7 +1,7 @@
 ### Hi there 👋  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400)  
 - 🔭 I'm currently studying how to code.  
-- 🌱 I'm currently learning python, javascript, html, css, sass, webpack, npm and ajax.
+- 🌱 I'm currently learning python, javascript, html, css, sass, webpack, npm, ajax, circleci, docker, so many more...
 - 👯 I’m not ready yet for a collaboration because I lake of time.
 - 🤔 I’m not yet looking for help.
 - 💬 [Ask me about anything](https://github.com/cGIfl300/cGIfl300/issues/new), I will be glad to give you an answer.
