@@ -1,6 +1,8 @@
 ### Hi there 👋  
 [Codewars](https://www.codewars.com/users/cGIfl300/) Profile Badges ![codewars](https://www.codewars.com/users/cGIfl300/badges/micro)  
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400)  
+
 - 🔭 I'm currently studying how to code.  
 - 💬 [Ask me about anything](https://github.com/cGIfl300/cGIfl300/issues/new), I will be glad to give you an answer.
 - 📫 How to reach me: you can simply [leave an issue to my profile](https://github.com/cGIfl300/cGIfl300/issues/new).
