@@ -1,5 +1,5 @@
 ### Hi there 👋  
-[Codewars](https://www.codewars.com/users/cGIfl300/) Profile Badges ![codewars](https://www.codewars.com/users/cGIfl300/badges/micro)  
+[Codewars](https://www.codewars.com/users/cGIfl300/) Profile Badges ![codewars](https://www.codewars.com/users/cGIfl300/badges/small)  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400)  
 
