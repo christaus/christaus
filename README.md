@@ -5,10 +5,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400)  
 
 - 🔭 I'm currently looking for a job.  
-- 🌱 I’m currently learning how to loose some hackthlons.  
 - 💬 [Ask me about anything](https://www.cgifl300.com/), I will be glad to give you an answer.  
 - 📫 How to reach me: you can simply [use the contact form on my website](https://www.cgifl300.com/).  
-- 😄 Pronouns: [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 - ⚡ Fun fact: I probably can eat more chocolat than the world production can provide.  
 <!--
 **cGIfl300/cGIfl300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
