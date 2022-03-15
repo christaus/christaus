@@ -5,8 +5,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cGIfl300&show_icons=true&cache_seconds=86400)  
 
 - 🔭 I'm currently looking for a job.  
-- 💬 [Ask me about anything](https://www.cgifl300.com/), I will be glad to give you an answer.  
-- 📫 How to reach me: you can simply [use the contact form on my website](https://www.cgifl300.com/).  
 - ⚡ Fun fact: I probably can eat more chocolat than the world production can provide.  
 <!--
 **cGIfl300/cGIfl300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun facts: ...
+- 💬 [Ask me about anything](https://www.cgifl300.com/), I will be glad to give you an answer.  
+- 📫 How to reach me: you can simply [use the contact form on my website](https://www.cgifl300.com/).  
 -->
