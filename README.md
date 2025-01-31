@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- 🔭 I'm currently a full-stack developper for a french corp, whatever, you can try to hire me, send a proposal.  
+- 🔭 Full-stack developper.  
 - ⚡ Fun fact: I probably can eat more chocolat than the world production can provide.  
 <!--
 **cGIfl300/cGIfl300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
