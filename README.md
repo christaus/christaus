@@ -1,5 +1,4 @@
 ### Hi there 👋  
-![Github stats](https://github-readme-stats.vercel.app/api?username=christaus&show_icons=true&cache_seconds=3600)  
 
 - 🔭 I'm currently a full-stack developper for a french corp, whatever, you can try to hire me, send a proposal.  
 - ⚡ Fun fact: I probably can eat more chocolat than the world production can provide.  
